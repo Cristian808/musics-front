@@ -1,6 +1,6 @@
 const navigation = [
   {
-    name: "Todas as solicitações",
+    name: "Página inicial",
     icon: "list_alt",
     route: "/pagina-inicial",
   },
